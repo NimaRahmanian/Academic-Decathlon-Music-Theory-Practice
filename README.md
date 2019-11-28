@@ -12,7 +12,12 @@ Steps to get the code running:
 4-hit run and enjoy! 
 
 **for any Python coders reading this:
-to make a question, whether it be chord, interval, or scale, all you must do is call the object created. 
+
+to make a question, whether it be chord, interval, or scale, all you must do is call the object created.
+
 ex. to make a chord question --> chord()
+
 moreover, feel free to edit the driver code to customize to whatever question you wish to practice.
+
 **future edits of the program will be coming. They will make all keyboard keys based off integers.
+
