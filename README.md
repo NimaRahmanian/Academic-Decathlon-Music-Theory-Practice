@@ -5,11 +5,7 @@ Steps to get the code running:
 
 1-consider using repl.it for an online Python compiler. 
 
-2-create a Python file for every file of code in the source folder.
-
-3-copy and paste the Python code into its respective file. 
-
-4-hit run and enjoy! 
+2-create a Python file and copy and paste the code shown in the source file
 
 **for any Python coders reading this:
 
