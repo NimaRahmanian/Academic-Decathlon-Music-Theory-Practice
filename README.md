@@ -3,10 +3,10 @@ Practice the music questions commonly asked on the USAD Music Test involving the
 
 Steps to get the code running:
 
-1-consider using repl.it for an online Python compiler.
-2-create a Python file for every file of code in the source folder.
-3-copy and paste the Python code into its respective file.
-4-hit run and enjoy!
+1-consider using repl.it for an online Python compiler.\n
+2-create a Python file for every file of code in the source folder.\n
+3-copy and paste the Python code into its respective file.\n
+4-hit run and enjoy!\n
 
 **for any Python coders reading this:
 to make a question, whether it be chord, interval, or scale, all you must do is call the object created. 
